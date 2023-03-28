@@ -1,0 +1,20 @@
+{
+  "openMesh": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "python"
+          ]
+        },
+        "body": [
+          "xgrid = np.ix_($variable1)"
+        ]
+      }
+    ],
+    "description": "",
+    "variables": {
+      "variable1": {}
+    }
+  }
+}

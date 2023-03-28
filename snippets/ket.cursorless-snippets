@@ -1,0 +1,20 @@
+{
+  "ket": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "latex"
+          ]
+        },
+        "body": [
+          "\\ket{$variable1}"
+        ]
+      }
+    ],
+    "description": "for inserting a cat in second quantization",
+    "variables": {
+      "variable1": {}
+    }
+  }
+}

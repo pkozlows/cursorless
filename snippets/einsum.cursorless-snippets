@@ -1,0 +1,22 @@
+{
+  "einsum": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "python"
+          ]
+        },
+        "body": [
+          "np.einsum('$initial_masks->$variable2', $variable3)"
+        ]
+      }
+    ],
+    "description": "",
+    "variables": {
+      "initial_masks": {},
+      "variable2": {},
+      "variable3": {}
+    }
+  }
+}

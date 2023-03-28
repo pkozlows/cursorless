@@ -1,0 +1,21 @@
+{
+  "antiCommutator": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "latex"
+          ]
+        },
+        "body": [
+          "\\acomm{$variable1}{$variable2}"
+        ]
+      }
+    ],
+    "description": "inserts a anti commutator in second quantization.",
+    "variables": {
+      "variable1": {},
+      "variable2": {}
+    }
+  }
+}

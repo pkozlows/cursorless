@@ -1,0 +1,21 @@
+{
+  "openMash": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "python"
+          ]
+        },
+        "body": [
+          "xgrid = np.ix_($python(variable1), $variable2)"
+        ]
+      }
+    ],
+    "description": "",
+    "variables": {
+      "python(variable1)": {},
+      "variable2": {}
+    }
+  }
+}

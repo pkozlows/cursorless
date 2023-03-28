@@ -1,0 +1,21 @@
+{
+  "commutator": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "latex"
+          ]
+        },
+        "body": [
+          "\\comm{$variable1}{$variable2}"
+        ]
+      }
+    ],
+    "description": "inserts a commutator for second quantization.",
+    "variables": {
+      "variable1": {},
+      "variable2": {}
+    }
+  }
+}

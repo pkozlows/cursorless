@@ -1,0 +1,20 @@
+{
+  "bra": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "latex"
+          ]
+        },
+        "body": [
+          "\\bra{$variable1}"
+        ]
+      }
+    ],
+    "description": "inserts a bra in second quantization.",
+    "variables": {
+      "variable1": {}
+    }
+  }
+}
